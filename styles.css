@@ -1,0 +1,29 @@
+li{
+    color: red;
+}
+.steps{
+    color: CornflowerBlue;
+    font-family: Trattatello, fantasy;
+}
+body{
+    background-color: dimgrey;
+}
+#toptitle{
+    color: CadetBlue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#quote{
+    border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+footer{
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
